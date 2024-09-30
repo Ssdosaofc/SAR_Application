@@ -4,4 +4,4 @@ This is the multi-platform application showing the backend implementation of the
 
 ## Information
 This is based on the Deep Learning Model shown in https://github.com/RudrakshSJoshi/SAR_Image_Colorization
-
+The generator.h5 file has been used as the model in the Flask API in order to generate new images using the architecture.
